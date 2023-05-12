@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Minesweeper/task/build/
+/Minesweeper/task/out/
+/Minesweeper/task/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
